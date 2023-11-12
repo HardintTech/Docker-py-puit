@@ -1,0 +1,10 @@
+pandas
+streamlit
+plotly
+urllib3 @ https://github.com/urllib3/urllib3/archive/refs/tags/1.26.8.zip
+matplotlib
+opencv-python
+pytesseract
+pdf2image
+PyPDF2
+tensorflow
